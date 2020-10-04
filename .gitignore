@@ -1,0 +1,3 @@
+# list of file types to ignore
+*.class
+*.out
