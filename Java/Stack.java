@@ -24,6 +24,7 @@ public class Stack<T> {
   // Initialize top as null is required for first push
   Stack() {
     top = null;
+    size = 0;
   }
 
   // add a node onto list
